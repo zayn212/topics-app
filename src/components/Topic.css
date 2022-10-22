@@ -1,0 +1,13 @@
+.topic {
+    display: flex;
+    justify-content: space-between;
+    max-width: 599px;
+}
+
+.topic .topic-name {
+
+}
+
+.topic .topic-count {
+
+}
